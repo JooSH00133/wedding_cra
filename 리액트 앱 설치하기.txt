@@ -1,0 +1,50 @@
+리액트 앱 설치하기
+Create React App
+
+node.js
+프로그램을 설치하는 전용패키지
+npm node package manager
+create-react-app
+
+npm 설치(install) create-react-app
+
+npm install -g create-react-app
+
+********************************
+1) npm i -g create-react-app
+********************************
+
+********************************
+2) create-react-app --version
+********************************
+
+********************************
+앱제작
+3) create-react-app app
+********************************
+
+********************************
+127.0.0.1:3000
+포트번호3000
+  Local:            http://localhost:3000        
+  On Your Network:  http://192.168.10.118:3000   
+ip주소192.168.10.118  
+********************************
+
+컴포넌트 설계
+
+
+components
+
+WrapComponent.jsx
+HeaderComponent.jsx
+MainComponent.jsx
+FooterComponent.jsx
+ModalComponent.jsx
+GotopComponent.jsx
+
+************************
+github 배포
+리파지토리 이름 
+
+wedding_cra
